@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+#div1 {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: black;
+}
+#gnx {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight:600;
+    font-style: normal;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 60px;
+  }
+
+img{
+    /* height:  */
+    width: 100%;
+    margin: 0 auto;
+    border: 10px solid white;
+    margin-top: 50px;
+}
+  
+#adlar {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 31px;
+    color: antiquewhite;
+    background-color: black;
+    text-align: center
+  }
+
+
